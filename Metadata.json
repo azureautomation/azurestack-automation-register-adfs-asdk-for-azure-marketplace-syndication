@@ -1,0 +1,20 @@
+{
+    "Author": "Gary Gallanes [MSFT]",
+    "ContentSize": 3819,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azurestack-automation-register-adfs-asdk-for-azure-marketplace-syndication/master/Set-AzSRegistrationADFS.ps1",
+    "DownloadCount": 630,
+    "Id": "AzureStack-Automation-96d3b628",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 534,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-8-26T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": ".Synopsis  ASDK Single Node only! - Automate ADFS AzureStack to Azure Market Place Syndication   .DESCRIPTION  ASDK Single Node only! - Register Azure Stack with Azure for Market Place Syndication. Installs and Import AzureStack Modules 1.2.10 & Tools, Import AzureSta",
+    "Title": "AzureStack Automation: Register ADFS ASDK for Azure Marketplace Syndication",
+    "UpdatedDate": "2018-9-11T00:00:00",
+    "Url": "https://github.com/azureautomation/azurestack-automation-register-adfs-asdk-for-azure-marketplace-syndication",
+    "UserTags": ""
+}
